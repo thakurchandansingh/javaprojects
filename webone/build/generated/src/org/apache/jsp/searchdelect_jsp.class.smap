@@ -1,0 +1,14 @@
+SMAP
+searchdelect_jsp.java
+JSP
+*S JSP
+*F
++ 0 searchdelect.jsp
+searchdelect.jsp
+*L
+5,16:47
+21,30:64
+50,2:94
+52:96,3
+53,28:99
+*E

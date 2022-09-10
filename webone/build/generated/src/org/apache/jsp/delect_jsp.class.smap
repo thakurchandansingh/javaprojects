@@ -1,0 +1,16 @@
+SMAP
+delect_jsp.java
+JSP
+*S JSP
+*F
++ 0 delect.jsp
+delect.jsp
+*L
+5,17:46
+22,41:64
+62,2:105
+64:107,3
+65,4:110
+69:114,3
+70,17:117
+*E
